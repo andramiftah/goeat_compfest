@@ -1,0 +1,4 @@
+mapsize 20
+user_coordinate 10,10
+drivers 4 Agus-11,15 Bima-2,7 Gilang-4,17 Zikra-13,7
+stores 2 warteg-12,13 4 Ikan_kembung-9 ayam_goreng-10 ayam_bakar-11 ayam_gulai-12 KFC-13,14 2 paha_atas-10 dada-11

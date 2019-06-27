@@ -1,0 +1,31 @@
+{1
+Order from Upnormal at [20, 16]
+Driver's name : Charlie
+Deliver to : [7, 10]
+Item's ordered :
+Menu - Harga - Quantity - Delivery fee
+Mie_goreng - 12 -1 -228
+Total price : 240
+Route :
+Start at [20, 16]
+- Go to [19, 16]
+- Go to [18, 16]
+- Go to [17, 16]
+- Go to [16, 16]
+- Go to [15, 16]
+- Go to [14, 16]
+- Go to [13, 16]
+- Go to [12, 16]
+- Go to [11, 16]
+- Go to [10, 16]
+- Go to [9, 16]
+- Go to [8, 16]
+- Go to [7, 16]
+- Go to [7, 15]
+- Go to [7, 14]
+- Go to [7, 13]
+- Go to [7, 12]
+- Go to [7, 11]
+- Go to [7, 10]
+- Finish at [7, 10]
+Enjoy your food
